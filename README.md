@@ -13,9 +13,13 @@
 2. Download the repository <a href="https://github.com/akira-trinity/learn4ever/releases/tag/v1.0">here</a> (source code).
 3. Go into the folder, open a cmd and type:
 ```diff
+npm install
+```
+4. Then:
+```diff
 electron .
 ```
-4. Enjoy ! (just remove the 'akira' memo) :)
+5. Enjoy ! (just remove the 'akira' memo) :)
 #
 
 <p align="center">Open an issue if you have an error !</p>
