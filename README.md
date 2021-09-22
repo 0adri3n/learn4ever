@@ -15,7 +15,7 @@
 ```diff
 electron .
 ```
-4. Enjoy !
+4. Enjoy ! (just remove the 'akira' memo) :)
 #
 
 <p align="center">Open an issue if you have an error !</p>
