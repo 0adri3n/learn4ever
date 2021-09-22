@@ -10,7 +10,7 @@
 
 [With build]
 1. Make sure u have npm on ur machine and electron.
-2. Download the repository.
+2. Download the repository <a href="https://github.com/akira-trinity/learn4ever/releases/tag/v1.0">here</a> (source code).
 3. Go into the folder, open a cmd and type:
 ```diff
 electron .
